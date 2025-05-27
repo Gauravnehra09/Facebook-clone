@@ -22,7 +22,6 @@ A front-end clone of Facebook designed with a responsive and interactive user in
 - HTML  
 - CSS  
 - JavaScript  
-*(Add React.js or other frameworks here if used)*
 
 ---
 
