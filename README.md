@@ -33,7 +33,7 @@ GitHub: [@Gauravnehra09](https://github.com/Gauravnehra09)
 
 ---
 
-# 🔮 Future Scope
+## 🔮 Future Scope
 1) Backend integration for user login and data persistence
 
 2) Real-time chat support
@@ -44,7 +44,7 @@ GitHub: [@Gauravnehra09](https://github.com/Gauravnehra09)
 
 ---
 
-# 📄 License
+## 📄 License
 This project is open-source and available under the MIT License.
 
 ---
