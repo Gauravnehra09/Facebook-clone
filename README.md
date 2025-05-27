@@ -53,4 +53,4 @@ This project is open-source and available under the MIT License.
 ### 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/Gauravnehra09/facebook-clone.git
+git clone https://github.com/Gauravnehra09/Facebook-clone.git
